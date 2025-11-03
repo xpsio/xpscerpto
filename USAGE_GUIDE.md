@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide shows how to use **XPSI Crypto** in real-world applications. It focuses on a clean, safe, and *production‑grade* developer experience using modern C++ Modules (C++23). You’ll find end‑to‑end recipes for:
+This guide shows how to use **XPScerpto** in real-world applications. It focuses on a clean, safe, and *production‑grade* developer experience using modern C++ Modules (C++23). You’ll find end‑to‑end recipes for:
 - AEAD encryption with **AAD** (AES‑GCM & ChaCha20‑Poly1305)
 - Public‑key signatures with **Ed25519**
 - Key agreement with **X25519** + HKDF → AES‑GCM session keys
@@ -375,4 +375,4 @@ endif()
 
 ---
 
-**That’s it!** You now have a practical, production‑minded path to use XPSI Crypto safely and efficiently across symmetric, asymmetric, and hybrid cryptography.
+**That’s it!** You now have a practical, production‑minded path to use XPScerpto safely and efficiently across symmetric, asymmetric, and hybrid cryptography.
