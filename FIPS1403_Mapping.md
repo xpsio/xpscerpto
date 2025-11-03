@@ -2,7 +2,7 @@
 
 > Scope: *Software‑only cryptographic module* (no physical tamper evidence). This mapping summarizes how XPSI Crypto aligns with FIPS 140‑3. Status legend: ✓ Implemented · ◇ Partial · ○ Planned.
 
-| FIPS 140‑3 Area | Requirement (Summary) | Evidence in XPSI Crypto | Status |
+| FIPS 140‑3 Area | Requirement (Summary) | Evidence in XPScerpto | Status |
 |---|---|---|---|
 | **Module Specification** | Clearly define module boundary, version, services, APIs, approved algorithms. | Module docset (ARCHITECTURE.md, SECURITY_SPEC), versioned APIs (e.g., `xps.crypto.api`), algorithm registry & policy manifest. | ✓ |
 | **Ports & Interfaces** | Identify logical interfaces and data/control flows. | API reference; separation of data (plaintext/ciphertext), control, status; no direct key export without wrapping. | ✓ |
