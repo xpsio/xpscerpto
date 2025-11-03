@@ -84,5 +84,5 @@ int main() {
 ## 👥 Community & Policies
 
 - Security policy: see **`docs/SECURITY_SPEC.md`**
-- Responsible disclosure: `security@yourdomain.tld`
+- Responsible disclosure: `security@xpsio.com`
 - Code of Conduct / Contributing: add your own files or link to organization policies.
