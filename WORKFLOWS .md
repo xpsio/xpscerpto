@@ -1,5 +1,5 @@
 # WORKFLOWS.md
-**Operational Workflows for XPSI Crypto**  
+**Operational Workflows for XPScerpto**  
 
 
 > This document describes how the major components of XPSI Crypto interact to accomplish common tasks. Each workflow includes a goal-oriented overview, a step-by-step sequence, error/resiliency notes, and—where useful—Mermaid diagrams and short, illustrative (pseudo‑)C++ examples using C++ Modules style `import` statements.  
@@ -24,7 +24,7 @@
 
 **Actors**
 - **App**: Your application or service.
-- **API**: XPS Crypto top‑level facade (e.g., `xps.crypto.api`) that routes to specific modules.
+- **API**: XPScerpto top‑level facade (e.g., `xps.crypto.api`) that routes to specific modules.
 - **CSRNG**: Cryptographically secure RNG/DRBG.
 - **AEAD**: Authenticated encryption engine (e.g., AES‑GCM, ChaCha20‑Poly1305).
 - **Keyring**: Secure key store/manager (create, rotate, revoke).
