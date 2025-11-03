@@ -6,7 +6,7 @@
 **Licensee:** ________________ (“Licensee”)  
 
 ## 1. Definitions
-1.1. “Software” refers to the XPSI-Crypto cryptographic library and all accompanying modules, source code, binaries, and documentation.  
+1.1. “Software” refers to the XPScerpto cryptographic library and all accompanying modules, source code, binaries, and documentation.  
 1.2. “Authorized Use” means use of the Software solely within Licensee’s own products or services under the terms of this Agreement.  
 1.3. “Confidential Information” means any non-public technical or business information disclosed by Licensor to Licensee.  
 1.4. “Effective Date” means the date this Agreement is executed by both parties.  
