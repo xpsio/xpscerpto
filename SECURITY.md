@@ -10,7 +10,7 @@ We follow **SemVer**. Security fixes target the latest minor within supported ma
 | < 0.x   | ❌ |
 
 ## Reporting a Vulnerability
-Please email **security@your-domain.example** (replace with your security inbox).  
+Please email **security@xpsio.com** (replace with your security inbox).  
 Include:
 - A clear description, impact, and minimal PoC if possible.
 - Affected versions/commit, OS/toolchain info.
