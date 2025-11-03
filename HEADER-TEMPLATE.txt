@@ -1,0 +1,23 @@
+// SPDX-License-Identifier: Apache-2.0 OR Commercial
+// ============================================================================
+//  XPScerpto: Adaptive Cryptographic Engine
+//  Copyright (c) 2025 XPSIO Technologies
+//  All rights reserved.
+//
+//  This file is part of the XPSI-Crypto project.
+//  Licensed under either:
+//
+//    • Apache License, Version 2.0 (the "Apache License")
+//      → http://www.apache.org/licenses/LICENSE-2.0
+//
+//    • Commercial License Agreement (the "Commercial License")
+//      → See COMMERCIAL-LICENSE-AGREEMENT.md or contact legal@xpsio.tech
+//
+//  You may not use this file except in compliance with one of the above licenses.
+//
+//  Additional restriction (policy statement):
+//  This software should not be used for military, mass-surveillance, or
+//  human-rights-violating purposes without explicit written permission.
+//
+//  SPDX-License-Identifier: Apache-2.0 OR Commercial
+// ============================================================================
