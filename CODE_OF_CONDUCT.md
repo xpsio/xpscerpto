@@ -17,7 +17,7 @@ Examples of unacceptable behavior include:
 - Other conduct which could reasonably be considered inappropriate
 
 ## Enforcement
-Report unacceptable behavior to **conduct@your-domain.example**.  
+Report unacceptable behavior to **conduct@xpsio.com**.  
 Maintainers will review and respond as appropriate. For severe cases, temporary or permanent bans may be applied.
 
 This policy is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
