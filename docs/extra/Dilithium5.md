@@ -481,4 +481,4 @@ namespace XPScerpto::crypto::dilithium5::params {
 ## Document Classification
 **xpsio Internal — Cryptographic Module**  
 **Review Cycle:** Quarterly security review required  
-**Contact:** xpsio Crypto Team <crypto-team@xpsio.com>
+**Contact:** xpsio Team <crypto-team@xpsio.com>
