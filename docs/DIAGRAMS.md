@@ -3,6 +3,15 @@
 <!-- TOC-BEGIN -->
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
+- [1. High‑Level](#1-highlevel)
+- [2. Dispatch](#2-dispatch)
+<!-- TOC-END -->
+
+
+<!-- TOC-BEGIN -->
+## Table of Contents
+
 - [1. High‑Level](#1-highlevel)
 - [2. Dispatch](#2-dispatch)
 <!-- TOC-END -->
