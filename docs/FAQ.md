@@ -1,5 +1,16 @@
 # FAQ — XPScerpto
 
+<!-- TOC-BEGIN -->
+## Table of Contents
+
+- [1) Mermaid diagrams لا تظهر على GitHub](#1-mermaid-diagrams----github)
+- [2) SIGILL عند التشغيل](#2-sigill--)
+- [3) PCM mismatch في وحدات C++](#3-pcm-mismatch---c)
+- [4) استخدام `xps::expected` مقابل الاستثناءات](#4--xpsexpected--)
+- [5) GCM nonce reuse](#5-gcm-nonce-reuse)
+<!-- TOC-END -->
+
+
 ## 1) Mermaid diagrams لا تظهر على GitHub
 - استخدم صيغة آمنة: لا تضع أقواس داخل عناوين العقد (`[Active New]` بدل `[Active (New)]`).
 - لا تستخدم `|label|` على الحواف؛ استخدم `-- label -->`.

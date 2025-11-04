@@ -1,4 +1,13 @@
 # WORKFLOWS_PLUS — XPScerpto Runbooks
+
+<!-- TOC-BEGIN -->
+## Table of Contents
+
+- [1. Key Rotation — Checklist](#1-key-rotation--checklist)
+- [2. Emergency Revoke — Checklist](#2-emergency-revoke--checklist)
+- [3. Hot‑Patch — Checklist](#3-hotpatch--checklist)
+<!-- TOC-END -->
+
 **Version:** 1.0 • **Date:** 2025-11-03
 
 ## 1. Key Rotation — Checklist

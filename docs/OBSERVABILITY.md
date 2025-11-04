@@ -1,5 +1,14 @@
 # Observability
 
+<!-- TOC-BEGIN -->
+## Table of Contents
+
+- [1. Metrics](#1-metrics)
+- [2. Logging](#2-logging)
+- [3. Export](#3-export)
+<!-- TOC-END -->
+
+
 Lightweight metrics and logs help detect regressions and incidents without leaking secrets.
 
 ## 1. Metrics

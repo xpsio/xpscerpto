@@ -1,5 +1,16 @@
 # Configuration
 
+<!-- TOC-BEGIN -->
+## Table of Contents
+
+- [1. ISA & Policy](#1-isa--policy)
+- [2. Memory](#2-memory)
+- [3. Logging & Metrics](#3-logging--metrics)
+- [4. PQC](#4-pqc)
+- [5. Build‑time Options (CMake)](#5-buildtime-options-cmake)
+<!-- TOC-END -->
+
+
 XPScerpto reads configuration from environment variables or consumer‑provided APIs.
 
 ## 1. ISA & Policy

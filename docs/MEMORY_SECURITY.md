@@ -1,4 +1,14 @@
 # MEMORY_SECURITY — XPScerpto
+
+<!-- TOC-BEGIN -->
+## Table of Contents
+
+- [1. Secure Buffers](#1-secure-buffers)
+- [2. Locking Semantics (per OS)](#2-locking-semantics-per-os)
+- [3. Wipe & Reuse](#3-wipe--reuse)
+- [4. Pitfalls](#4-pitfalls)
+<!-- TOC-END -->
+
 **Version:** 1.0 • **Date:** 2025-11-03
 
 ## 1. Secure Buffers

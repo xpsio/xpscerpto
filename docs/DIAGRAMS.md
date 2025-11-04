@@ -1,5 +1,13 @@
 # Diagrams
 
+<!-- TOC-BEGIN -->
+## Table of Contents
+
+- [1. High‑Level](#1-highlevel)
+- [2. Dispatch](#2-dispatch)
+<!-- TOC-END -->
+
+
 All Mermaid snippets follow the project's linter rules:
 - No `note over`
 - No `|label|` on edges

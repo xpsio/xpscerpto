@@ -1,5 +1,14 @@
 # Error Taxonomy
 
+<!-- TOC-BEGIN -->
+## Table of Contents
+
+- [1. Categories](#1-categories)
+- [2. Mapping Examples](#2-mapping-examples)
+- [3. Guidance](#3-guidance)
+<!-- TOC-END -->
+
+
 A consistent set of error codes maps to `std::expected<T, ErrorCode>` results.
 
 ## 1. Categories

@@ -1,5 +1,15 @@
 # PQC Guide
 
+<!-- TOC-BEGIN -->
+## Table of Contents
+
+- [1. APIs](#1-apis)
+- [2. Keys & Sizes](#2-keys--sizes)
+- [3. Side‑Channels](#3-sidechannels)
+- [4. Migration Strategy](#4-migration-strategy)
+<!-- TOC-END -->
+
+
 Guidance for using PQC modules (Falcon‑1024, Dilithium‑5) safely in production.
 
 ## 1. APIs
