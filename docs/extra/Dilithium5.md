@@ -1,85 +1,4 @@
-# XPScerpto — Dilithium5
-
 <!-- TOC-BEGIN -->
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Executive Summary](#executive-summary)
-  - [Key Features](#key-features)
-- [Table of Contents](#table-of-contents)
-- [Quick Start Guide](#quick-start-guide)
-  - [Minimal Working Example](#minimal-working-example)
-  - [Build Configuration (Standalone)](#build-configuration-standalone)
-- [Architecture Overview](#architecture-overview)
-  - [Module Dependencies](#module-dependencies)
-  - [Core Components](#core-components)
-- [Integration Guide](#integration-guide)
-  - [Prerequisites](#prerequisites)
-  - [CMake Integration](#cmake-integration)
-  - [Recommended Build Order](#recommended-build-order)
-- [API Reference](#api-reference)
-  - [Core Types](#core-types)
-  - [Primary Interface](#primary-interface)
-- [Security Implementation](#security-implementation)
-  - [Cryptographic Parameters](#cryptographic-parameters)
-  - [Memory Footprint (Indicative)](#memory-footprint-indicative)
-  - [Security Considerations](#security-considerations)
-- [Performance Characteristics](#performance-characteristics)
-  - [Benchmark Results (Illustrative)](#benchmark-results-illustrative)
-- [Operational Guidelines](#operational-guidelines)
-  - [Key Management (Sketch)](#key-management-sketch)
-  - [Error Handling (Safe Wrappers)](#error-handling-safe-wrappers)
-- [Troubleshooting & Support](#troubleshooting--support)
-  - [Common Issues](#common-issues)
-  - [Performance Tuning](#performance-tuning)
-- [Compliance Notes](#compliance-notes)
-- [Appendix](#appendix)
-  - [Parameter Specifications](#parameter-specifications)
-  - [References](#references)
-- [Change Log](#change-log)
-- [Document Classification](#document-classification)
-<!-- TOC-END -->
-
-
-<!-- TOC-BEGIN -->
-## Table of Contents
-
-- [Executive Summary](#executive-summary)
-  - [Key Features](#key-features)
-- [Table of Contents](#table-of-contents)
-- [Quick Start Guide](#quick-start-guide)
-  - [Minimal Working Example](#minimal-working-example)
-  - [Build Configuration (Standalone)](#build-configuration-standalone)
-- [Architecture Overview](#architecture-overview)
-  - [Module Dependencies](#module-dependencies)
-  - [Core Components](#core-components)
-- [Integration Guide](#integration-guide)
-  - [Prerequisites](#prerequisites)
-  - [CMake Integration](#cmake-integration)
-  - [Recommended Build Order](#recommended-build-order)
-- [API Reference](#api-reference)
-  - [Core Types](#core-types)
-  - [Primary Interface](#primary-interface)
-- [Security Implementation](#security-implementation)
-  - [Cryptographic Parameters](#cryptographic-parameters)
-  - [Memory Footprint (Indicative)](#memory-footprint-indicative)
-  - [Security Considerations](#security-considerations)
-- [Performance Characteristics](#performance-characteristics)
-  - [Benchmark Results (Illustrative)](#benchmark-results-illustrative)
-- [Operational Guidelines](#operational-guidelines)
-  - [Key Management (Sketch)](#key-management-sketch)
-  - [Error Handling (Safe Wrappers)](#error-handling-safe-wrappers)
-- [Troubleshooting & Support](#troubleshooting--support)
-  - [Common Issues](#common-issues)
-  - [Performance Tuning](#performance-tuning)
-- [Compliance Notes](#compliance-notes)
-- [Appendix](#appendix)
-  - [Parameter Specifications](#parameter-specifications)
-  - [References](#references)
-- [Change Log](#change-log)
-- [Document Classification](#document-classification)
-<!-- TOC-END -->
-
 **Document Version:** 2.0 | **Last Updated:** 2025-10-26  
 **Module:** `xps.crypto.dilithium5`  
 **Status:** **Production-Ready (Engineering Preview)**
@@ -99,23 +18,7 @@ The `xps.crypto.dilithium5` module provides a C++23/26 implementation of the **D
 - **Production-lean architecture:** Optimized for performance while remaining readable and maintainable.  
 - **Type-safe API:** Strong typing and bounds checking to reduce misuse.
 
----
 
-## Table of Contents
-1. [Quick Start Guide](#quick-start-guide)  
-2. [Architecture Overview](#architecture-overview)  
-3. [Integration Guide](#integration-guide)  
-4. [API Reference](#api-reference)  
-5. [Security Implementation](#security-implementation)  
-6. [Performance Characteristics](#performance-characteristics)  
-7. [Operational Guidelines](#operational-guidelines)  
-8. [Troubleshooting & Support](#troubleshooting--support)  
-9. [Compliance Notes](#compliance-notes)  
-10. [Appendix](#appendix)  
-11. [Change Log](#change-log)  
-12. [Document Classification](#document-classification)
-
----
 
 ## Quick Start Guide
 
