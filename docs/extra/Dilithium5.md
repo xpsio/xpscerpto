@@ -105,6 +105,45 @@ graph TD
 ### CMake Integration
 ```cmake
 # Hash modules
+
+<!-- TOC-BEGIN -->
+## Table of Contents
+
+- [Executive Summary](#executive-summary)
+  - [Key Features](#key-features)
+- [Quick Start Guide](#quick-start-guide)
+  - [Minimal Working Example](#minimal-working-example)
+  - [Build Configuration (Standalone)](#build-configuration-standalone)
+- [Architecture Overview](#architecture-overview)
+  - [Module Dependencies](#module-dependencies)
+  - [Core Components](#core-components)
+- [Integration Guide](#integration-guide)
+  - [Prerequisites](#prerequisites)
+  - [CMake Integration](#cmake-integration)
+  - [Recommended Build Order](#recommended-build-order)
+- [API Reference](#api-reference)
+  - [Core Types](#core-types)
+  - [Primary Interface](#primary-interface)
+- [Security Implementation](#security-implementation)
+  - [Cryptographic Parameters](#cryptographic-parameters)
+  - [Memory Footprint (Indicative)](#memory-footprint-indicative)
+  - [Security Considerations](#security-considerations)
+- [Performance Characteristics](#performance-characteristics)
+  - [Benchmark Results (Illustrative)](#benchmark-results-illustrative)
+- [Operational Guidelines](#operational-guidelines)
+  - [Key Management (Sketch)](#key-management-sketch)
+  - [Error Handling (Safe Wrappers)](#error-handling-safe-wrappers)
+- [Troubleshooting & Support](#troubleshooting--support)
+  - [Common Issues](#common-issues)
+  - [Performance Tuning](#performance-tuning)
+- [Compliance Notes](#compliance-notes)
+- [Appendix](#appendix)
+  - [Parameter Specifications](#parameter-specifications)
+  - [References](#references)
+- [Change Log](#change-log)
+- [Document Classification](#document-classification)
+<!-- TOC-END -->
+
 add_library(xps.crypto.hash.shake128 INTERFACE)
 target_sources(xps.crypto.hash.shake128 INTERFACE
   FILE_SET cxx_modules TYPE CXX_MODULES
