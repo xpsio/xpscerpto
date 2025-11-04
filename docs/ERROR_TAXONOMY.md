@@ -5,6 +5,18 @@
 
 - [Table of Contents](#table-of-contents)
 - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
+- [1. Categories](#1-categories)
+- [2. Mapping Examples](#2-mapping-examples)
+- [3. Guidance](#3-guidance)
+<!-- TOC-END -->
+
+
+<!-- TOC-BEGIN -->
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
 - [1. Categories](#1-categories)
 - [2. Mapping Examples](#2-mapping-examples)
 - [3. Guidance](#3-guidance)
